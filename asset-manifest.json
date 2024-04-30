@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test_from_tvoe/static/css/main.cceedfc1.css",
-    "main.js": "/test_from_tvoe/static/js/main.02748f3a.js",
+    "main.css": "/test_from_tvoe/static/css/main.62dfb425.css",
+    "main.js": "/test_from_tvoe/static/js/main.a3749c08.js",
     "static/js/453.4cb57267.chunk.js": "/test_from_tvoe/static/js/453.4cb57267.chunk.js",
     "static/media/popcorn2.png": "/test_from_tvoe/static/media/popcorn2.6612fbc724000765477a.png",
     "static/media/img2.svg": "/test_from_tvoe/static/media/img2.d458706f07465b17947b5f9701ddcd01.svg",
@@ -29,12 +29,12 @@
     "static/media/toViewGrey.svg": "/test_from_tvoe/static/media/toViewGrey.1313d9451607edc6b6e23dfd7c247588.svg",
     "static/media/toViewWhite.svg": "/test_from_tvoe/static/media/toViewWhite.0b4a423684d55a8d6211bce3c708f665.svg",
     "static/media/arrowToRight.svg": "/test_from_tvoe/static/media/arrowToRight.e9de89e77ad634386b3ce4da81ba9674.svg",
-    "main.cceedfc1.css.map": "/test_from_tvoe/static/css/main.cceedfc1.css.map",
-    "main.02748f3a.js.map": "/test_from_tvoe/static/js/main.02748f3a.js.map",
+    "main.62dfb425.css.map": "/test_from_tvoe/static/css/main.62dfb425.css.map",
+    "main.a3749c08.js.map": "/test_from_tvoe/static/js/main.a3749c08.js.map",
     "453.4cb57267.chunk.js.map": "/test_from_tvoe/static/js/453.4cb57267.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cceedfc1.css",
-    "static/js/main.02748f3a.js"
+    "static/css/main.62dfb425.css",
+    "static/js/main.a3749c08.js"
   ]
 }
