@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/test_from_tvoe_html/static/css/main.9475d91b.css",
+    "main.js": "/test_from_tvoe_html/static/js/main.00005062.js",
+    "static/js/453.4cb57267.chunk.js": "/test_from_tvoe_html/static/js/453.4cb57267.chunk.js",
+    "static/media/popcorn2.png": "/test_from_tvoe_html/static/media/popcorn2.6612fbc724000765477a.png",
+    "static/media/img2.svg": "/test_from_tvoe_html/static/media/img2.d458706f07465b17947b5f9701ddcd01.svg",
+    "static/media/fullLogo.svg": "/test_from_tvoe_html/static/media/fullLogo.85bfe9b4dece1a086886c21a1604cbd8.svg",
+    "static/media/sendGrey.svg": "/test_from_tvoe_html/static/media/sendGrey.1a780eecaab41b6bb2a19ebd54c19d29.svg",
+    "static/media/sendWhite.svg": "/test_from_tvoe_html/static/media/sendWhite.162732639b7c843e44f3c6b1c687d82d.svg",
+    "static/media/logoVkBlue.svg": "/test_from_tvoe_html/static/media/logoVkBlue.7256b9cc3d143d05af757b17e7134206.svg",
+    "static/media/likeGrey.svg": "/test_from_tvoe_html/static/media/likeGrey.53c13d1ebdc2c071a7016440e6fec292.svg",
+    "static/media/likeWhite.svg": "/test_from_tvoe_html/static/media/likeWhite.b839c83bd018e3d558f3f78babc479af.svg",
+    "static/media/logoHome.svg": "/test_from_tvoe_html/static/media/logoHome.856e79782f91a555ee747505bced36b5.svg",
+    "static/media/img1.svg": "/test_from_tvoe_html/static/media/img1.9ff9e087a152e75d08ea732e2dbaa384.svg",
+    "static/media/logoYouTubeBlue.svg": "/test_from_tvoe_html/static/media/logoYouTubeBlue.fd372d94d45bf6f64fed820a9c98f19c.svg",
+    "static/media/img4.svg": "/test_from_tvoe_html/static/media/img4.4d6d717f65b2dbfeadd45eeb1f9e9cb7.svg",
+    "index.html": "/test_from_tvoe_html/index.html",
+    "static/media/logoPromo1.svg": "/test_from_tvoe_html/static/media/logoPromo1.c0c35ea3e6de0edcdaab7fd02cae9b8e.svg",
+    "static/media/logoPromo2.svg": "/test_from_tvoe_html/static/media/logoPromo2.a4175b52832a090cf062d995baf93ed2.svg",
+    "static/media/logoSearch1.svg": "/test_from_tvoe_html/static/media/logoSearch1.66e5a5e57ba78d1398f4840437730ea5.svg",
+    "static/media/logoSearch2.svg": "/test_from_tvoe_html/static/media/logoSearch2.8f15ef37b471934126bd73d652d56759.svg",
+    "static/media/logoTelegramBlue.svg": "/test_from_tvoe_html/static/media/logoTelegramBlue.f51ee135bdd7ad07d32394bec096bc4a.svg",
+    "static/media/img3.svg": "/test_from_tvoe_html/static/media/img3.930e4518786d968f74e7e4bf890229bc.svg",
+    "static/media/logoFilms.svg": "/test_from_tvoe_html/static/media/logoFilms.b2ef55a1434bb7653b2fef6142ad4238.svg",
+    "static/media/logoSeries.svg": "/test_from_tvoe_html/static/media/logoSeries.660e45299a579704a6ad3071db45d2ba.svg",
+    "static/media/logoAttention.svg": "/test_from_tvoe_html/static/media/logoAttention.9942a94a95277bd3c9d7c9808fdf04ca.svg",
+    "static/media/logoTV.svg": "/test_from_tvoe_html/static/media/logoTV.362eb6650976cd28a0ff2ccd4d3dc243.svg",
+    "static/media/toViewGrey.svg": "/test_from_tvoe_html/static/media/toViewGrey.1313d9451607edc6b6e23dfd7c247588.svg",
+    "static/media/toViewWhite.svg": "/test_from_tvoe_html/static/media/toViewWhite.0b4a423684d55a8d6211bce3c708f665.svg",
+    "static/media/arrowToRight.svg": "/test_from_tvoe_html/static/media/arrowToRight.e9de89e77ad634386b3ce4da81ba9674.svg",
+    "main.9475d91b.css.map": "/test_from_tvoe_html/static/css/main.9475d91b.css.map",
+    "main.00005062.js.map": "/test_from_tvoe_html/static/js/main.00005062.js.map",
+    "453.4cb57267.chunk.js.map": "/test_from_tvoe_html/static/js/453.4cb57267.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9475d91b.css",
+    "static/js/main.00005062.js"
+  ]
+}
